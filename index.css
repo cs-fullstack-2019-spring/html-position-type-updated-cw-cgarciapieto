@@ -1,0 +1,47 @@
+header, section, aside, footer {
+    margin: 0 1.5% 24px 1.5%;
+}
+
+header{
+    text-align: center;
+    position: center;
+    font-style: italic;
+    font-family: cursive;
+    font-size: x-large;
+}
+
+section {
+    text-align: justify;
+    float: left;
+    top: 20px;
+    left: 20px;
+}
+
+aside {
+
+    position: relative;
+    text-align: right;
+    float: right;
+
+}
+
+
+article{
+
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+
+
+
+footer
+{
+    text-align: center;
+    position: relative;
+    font-style: italic;
+    font-family: cursive;
+    font-size: x-large;
+    clear: both;
+    margin-bottom: 0;
+}
